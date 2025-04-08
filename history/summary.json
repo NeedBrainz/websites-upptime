@@ -16,5 +16,41 @@
     "timeMonth": 374,
     "timeYear": 374,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "physio-vd.ch",
+    "url": "https://www.physio-vd.ch",
+    "icon": "https://icons.duckduckgo.com/ip3/www.physio-vd.ch.ico",
+    "slug": "physio-vd-ch",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 286,
+    "timeDay": 286,
+    "timeWeek": 286,
+    "timeMonth": 286,
+    "timeYear": 286,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "acu-vd.ch",
+    "url": "https://www.acu-vd.ch",
+    "icon": "https://icons.duckduckgo.com/ip3/www.acu-vd.ch.ico",
+    "slug": "acu-vd-ch",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 264,
+    "timeDay": 264,
+    "timeWeek": 264,
+    "timeMonth": 264,
+    "timeYear": 264,
+    "dailyMinutesDown": {}
   }
 ]
