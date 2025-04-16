@@ -4,19 +4,19 @@
     "url": "https://needbrainz.com",
     "icon": "https://icons.duckduckgo.com/ip3/needbrainz.com.ico",
     "slug": "needbrainz-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 631,
-    "timeDay": 584,
-    "timeWeek": 619,
-    "timeMonth": 631,
-    "timeYear": 631,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 660,
+    "timeDay": 754,
+    "timeWeek": 657,
+    "timeMonth": 660,
+    "timeYear": 660,
     "dailyMinutesDown": {
-      "2025-04-16": 0
+      "2025-04-16": 23
     }
   },
   {
