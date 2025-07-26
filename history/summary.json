@@ -25,7 +25,7 @@
     "url": "https://www.magnetiseur-reiki.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.magnetiseur-reiki.ch.ico",
     "slug": "magnetiseur-reiki-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 666,
     "timeMonth": 478,
     "timeYear": 446,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-26": 0
+    }
   },
   {
     "name": "physio-vd.ch",
