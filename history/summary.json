@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 739,
-    "timeDay": 630,
-    "timeWeek": 823,
-    "timeMonth": 767,
-    "timeYear": 739,
+    "time": 740,
+    "timeDay": 856,
+    "timeWeek": 861,
+    "timeMonth": 766,
+    "timeYear": 740,
     "dailyMinutesDown": {
       "2025-06-05": 22,
       "2025-04-16": 23
@@ -31,11 +31,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 449,
-    "timeDay": 272,
-    "timeWeek": 481,
-    "timeMonth": 497,
-    "timeYear": 449,
+    "time": 448,
+    "timeDay": 402,
+    "timeWeek": 480,
+    "timeMonth": 499,
+    "timeYear": 448,
     "dailyMinutesDown": {
       "2025-07-26": 20
     }
@@ -46,19 +46,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.physio-vd.ch.ico",
     "slug": "physio-vd-ch",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 371,
-    "timeDay": 398,
-    "timeWeek": 321,
+    "timeDay": 425,
+    "timeWeek": 325,
     "timeMonth": 356,
     "timeYear": 371,
-    "dailyMinutesDown": {
-      "2025-07-31": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "acu-vd.ch",
@@ -66,19 +64,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.acu-vd.ch.ico",
     "slug": "acu-vd-ch",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 380,
-    "timeDay": 231,
-    "timeWeek": 385,
-    "timeMonth": 408,
+    "timeDay": 261,
+    "timeWeek": 371,
+    "timeMonth": 404,
     "timeYear": 380,
-    "dailyMinutesDown": {
-      "2025-07-31": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "plausible",
@@ -92,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 983,
-    "timeDay": 983,
-    "timeWeek": 1119,
-    "timeMonth": 1021,
+    "timeDay": 997,
+    "timeWeek": 1086,
+    "timeMonth": 1010,
     "timeYear": 983,
     "dailyMinutesDown": {}
   }
