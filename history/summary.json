@@ -28,12 +28,12 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 450,
     "timeDay": 700,
-    "timeWeek": 516,
+    "timeWeek": 547,
     "timeMonth": 507,
     "timeYear": 450,
     "dailyMinutesDown": {
@@ -45,9 +45,9 @@
     "url": "https://www.physio-vd.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.physio-vd.ch.ico",
     "slug": "physio-vd-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,16 +56,18 @@
     "timeWeek": 330,
     "timeMonth": 355,
     "timeYear": 370,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-02": 0
+    }
   },
   {
     "name": "acu-vd.ch",
     "url": "https://www.acu-vd.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.acu-vd.ch.ico",
     "slug": "acu-vd-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,7 +76,9 @@
     "timeWeek": 350,
     "timeMonth": 405,
     "timeYear": 379,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-02": 0
+    }
   },
   {
     "name": "plausible",
