@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/needbrainz.com.ico",
     "slug": "needbrainz-com",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 742,
-    "timeDay": 626,
-    "timeWeek": 765,
-    "timeMonth": 781,
-    "timeYear": 742,
+    "uptimeYear": "99.98%",
+    "time": 741,
+    "timeDay": 570,
+    "timeWeek": 734,
+    "timeMonth": 778,
+    "timeYear": 741,
     "dailyMinutesDown": {
       "2025-06-05": 22,
       "2025-04-16": 23
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 448,
-    "timeDay": 323,
-    "timeWeek": 401,
-    "timeMonth": 495,
-    "timeYear": 448,
+    "time": 447,
+    "timeDay": 312,
+    "timeWeek": 336,
+    "timeMonth": 492,
+    "timeYear": 447,
     "dailyMinutesDown": {
       "2025-07-26": 20
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 370,
-    "timeDay": 279,
-    "timeWeek": 365,
-    "timeMonth": 356,
-    "timeYear": 370,
+    "time": 369,
+    "timeDay": 230,
+    "timeWeek": 335,
+    "timeMonth": 354,
+    "timeYear": 369,
     "dailyMinutesDown": {
       "2025-08-02": 22
     }
@@ -72,9 +72,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 378,
-    "timeDay": 385,
-    "timeWeek": 409,
-    "timeMonth": 399,
+    "timeDay": 306,
+    "timeWeek": 370,
+    "timeMonth": 398,
     "timeYear": 378,
     "dailyMinutesDown": {
       "2025-08-02": 22
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 989,
-    "timeDay": 816,
-    "timeWeek": 998,
-    "timeMonth": 1027,
+    "timeDay": 1070,
+    "timeWeek": 994,
+    "timeMonth": 1030,
     "timeYear": 989,
     "dailyMinutesDown": {}
   }
