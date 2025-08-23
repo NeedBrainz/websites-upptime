@@ -46,9 +46,9 @@
     "url": "https://www.physio-vd.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.physio-vd.ch.ico",
     "slug": "physio-vd-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -58,6 +58,7 @@
     "timeMonth": 327,
     "timeYear": 364,
     "dailyMinutesDown": {
+      "2025-08-23": 0,
       "2025-08-02": 22
     }
   },
@@ -66,9 +67,9 @@
     "url": "https://www.acu-vd.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.acu-vd.ch.ico",
     "slug": "acu-vd-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -78,6 +79,7 @@
     "timeMonth": 342,
     "timeYear": 372,
     "dailyMinutesDown": {
+      "2025-08-23": 0,
       "2025-08-02": 22
     }
   },
