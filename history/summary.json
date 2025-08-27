@@ -48,9 +48,9 @@
     "slug": "physio-vd-ch",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "95.77%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "96.42%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.96%",
     "time": 367,
     "timeDay": 420,
@@ -58,7 +58,7 @@
     "timeMonth": 351,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2025-08-26": 61,
+      "2025-08-26": 52,
       "2025-08-02": 22
     }
   },
@@ -69,9 +69,9 @@
     "slug": "acu-vd-ch",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "95.84%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.96%",
     "time": 374,
     "timeDay": 435,
@@ -79,7 +79,7 @@
     "timeMonth": 351,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2025-08-26": 60,
+      "2025-08-26": 51,
       "2025-08-02": 22
     }
   },
