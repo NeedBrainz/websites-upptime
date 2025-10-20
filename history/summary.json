@@ -26,9 +26,9 @@
     "url": "https://www.magnetiseur-reiki.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.magnetiseur-reiki.ch.ico",
     "slug": "magnetiseur-reiki-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -38,6 +38,7 @@
     "timeMonth": 498,
     "timeYear": 466,
     "dailyMinutesDown": {
+      "2025-10-20": 0,
       "2025-08-17": 15,
       "2025-07-26": 20
     }
