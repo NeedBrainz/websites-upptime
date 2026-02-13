@@ -4,9 +4,9 @@
     "url": "https://needbrainz.com",
     "icon": "https://icons.duckduckgo.com/ip3/needbrainz.com.ico",
     "slug": "needbrainz-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 1002,
     "timeYear": 786,
     "dailyMinutesDown": {
+      "2026-02-13": 0,
       "2025-09-02": 77,
       "2025-06-05": 22,
       "2025-04-16": 23
