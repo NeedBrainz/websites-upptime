@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/needbrainz.com.ico",
     "slug": "needbrainz-com",
     "status": "down",
-    "uptime": "73.89%",
+    "uptime": "73.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "69.92%",
+    "uptimeYear": "69.88%",
     "time": 786,
     "timeDay": 0,
     "timeWeek": 0,
@@ -18,7 +18,7 @@
     "dailyMinutesDown": {
       "2025-06-05": 22,
       "2025-09-02": 77,
-      "2026-06-03": 113,
+      "2026-06-03": 302,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
@@ -137,11 +137,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.magnetiseur-reiki.ch.ico",
     "slug": "magnetiseur-reiki-ch",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.91%",
+    "uptimeDay": "86.88%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.89%",
     "time": 536,
     "timeDay": 718,
     "timeWeek": 715,
@@ -156,7 +156,7 @@
       "2026-03-11": 52,
       "2026-05-10": 108,
       "2026-05-19": 70,
-      "2026-06-03": 0
+      "2026-06-03": 189
     }
   },
   {
