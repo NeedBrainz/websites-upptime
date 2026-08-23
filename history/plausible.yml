@@ -1,7 +1,7 @@
 url: https://plausible.needbrainz.com
-status: down
-code: 502
-responseTime: 294
-lastUpdated: 2026-08-22T23:27:29.953Z
+status: up
+code: 200
+responseTime: 665
+lastUpdated: 2026-08-23T16:55:41.052Z
 startTime: 2025-04-08T09:12:20.749Z
 generator: Upptime <https://github.com/upptime/upptime>
